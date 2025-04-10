@@ -1,0 +1,11 @@
+
+credentials:
+  usernames:
+    demo_user:
+      email: demo@example.com
+      name: Demo User
+      password: demo123
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
